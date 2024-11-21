@@ -9,7 +9,7 @@ int main(){
     cout << "Sex : " << dog1.GetSex() << endl;
     cout << "Color : " << dog1.GetColor() << endl;
     cout << "Age : " << dog1.GetAge() << endl;
-    cout << "Name : " << dog1.GetName() << endl;cd
+    cout << "Name : " << dog1.GetName() << endl;
     cout << "Race : " << dog1.GetRace() << endl;
     cout << "First dog says : " << dog1.WhatDoesSay() << endl << endl;
     //Copy constructor
